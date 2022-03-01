@@ -1,1 +1,1 @@
-export { example } from "./modules/example";
+export { example } from './modules/example'; 
